@@ -1,0 +1,70 @@
+.mainfoot{
+    background-color: #eeeeee;
+    margin-top: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+img{
+    height:250px;
+    width: 250px;
+}
+
+.cont{ 
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 15px;
+}
+
+  .cont p{
+    margin:50px 0;
+    font-size: 20px;
+  }
+
+  .tagline{
+    text-transform: capitalize;
+    text-decoration: underline #742593;
+  }
+
+
+
+
+  
+
+  
+
+@media (max-width: 480px) {
+    /* start of phone styles */
+    .mainfoot{
+        margin-top: 30px;
+    }
+  }
+    
+  /* Media Query for low resolution  Tablets, Ipads */
+  @media (min-width: 481px) and (max-width: 768px) {
+    .mainfoot{
+        margin-top: 30px;
+    }
+  }
+    
+  /* Media Query for Tablets Ipads portrait mode */
+  @media (min-width: 768px) and (max-width: 1024px){
+    .mainfoot{
+        margin-top: 50px;
+    }
+  }
+  
+  /* Media Query for Laptops and Desktops */
+  @media (min-width: 1025px) and (max-width: 1280px){
+
+  }
+  
+  /* Media Query for Large screens */
+  @media (min-width: 1281px) {
+    
+  }
