@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/rise11/static/css/main.6a5b103c.css",
+    "main.js": "/rise11/static/js/main.a102b7d6.js",
+    "static/media/Rise11.png": "/rise11/static/media/Rise11.7dc70eca7c18494ef626.png",
+    "static/media/Rise11Logo1.png": "/rise11/static/media/Rise11Logo1.a84b964d4c419fd5f2db.png",
+    "static/media/revicons.eot": "/rise11/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/rise11/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/Rise11Logo.png": "/rise11/static/media/Rise11Logo.448344afd1f52c0ceddf.png",
+    "static/media/revicons.woff": "/rise11/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/rise11/index.html",
+    "main.6a5b103c.css.map": "/rise11/static/css/main.6a5b103c.css.map",
+    "main.a102b7d6.js.map": "/rise11/static/js/main.a102b7d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a5b103c.css",
+    "static/js/main.a102b7d6.js"
+  ]
+}
